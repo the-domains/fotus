@@ -1,14 +1,14 @@
 layout_spectrum: 0.2658303
-typography_spectrum: 0.4199522
 color:
-  saturation: 0.318399
+  saturation: 0.5382317
   brandStrength: 0.42911
-  lightness: 0.6409796
+  lightness: 0.6314217
   brandColors:
     - '#323949'
     - '#BFB4B0'
     - '#99857E'
     - '#F0E8DE'
     - '#547360'
-  rhythmicContrast: 0.4223417
+  rhythmicContrast: 0.6194743
+typography_spectrum: 0.4199522
 name: Fotus
